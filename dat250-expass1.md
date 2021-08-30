@@ -11,3 +11,6 @@ I tried to run a java project with the IDE, and used the maven comand line inter
 I also had Heroku installed in the device, so no technical issues in this step. 
 
 > [My heroku app](https://fast-cove-87263.herokuapp.com)
+
+## Pending issues
+None
