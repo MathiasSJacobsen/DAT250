@@ -36,4 +36,4 @@ Relation Table
 The only problem with this task was understanding the given domain model.
 
 
-You can find the implementation [her](https://github.com/MathiasSJacobsen/DAT250/tree/main/expass2-code/banking.
+You can find the implementation [her](https://github.com/MathiasSJacobsen/DAT250/tree/main/expass2-code/banking).
