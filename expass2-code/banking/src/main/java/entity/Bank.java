@@ -10,6 +10,7 @@ import java.util.*;
 public class Bank {
     @Id
     @Column(name = "id", nullable = false)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
 

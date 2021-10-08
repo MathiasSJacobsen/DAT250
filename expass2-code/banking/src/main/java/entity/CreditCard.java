@@ -9,6 +9,7 @@ import javax.persistence.*;
 public class CreditCard {
     @Id
     @Column(name = "id", nullable = false)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private Long number;
     private float balance;
