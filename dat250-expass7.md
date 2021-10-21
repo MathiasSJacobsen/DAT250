@@ -7,4 +7,4 @@ You can find the implementation [her](https://github.com/MathiasSJacobsen/DAT250
 
 
 ## Issues
-Could not get the jar-command to work, package com.rabbitmq.xxxx does not exist was the error. But it worked in `IntelliJ`.
+Could not get the jar-command to work, `package com.rabbitmq.xxxx does not exist` was the error. But it worked in `IntelliJ`.
