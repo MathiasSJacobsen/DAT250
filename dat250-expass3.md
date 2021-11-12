@@ -23,5 +23,7 @@ Remove documents
 Bulk write operations
 
 ## Experiment 2: Aggregation
+![](assets/last1.png)
+![](assets/last2.png)
 
-Didnt understend this experiment
+I found the sum of the toatal number of items in each users cart
